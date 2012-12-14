@@ -4,7 +4,7 @@ var docpadInstanceConfiguration = {
     templateData: {
         site: {
             title: "Сайт и блог программиста",
-            url: "http://blog.programmer-site.tk"
+            url: "http://melekin.tk"
         }
       },
       getTitle: function() {
