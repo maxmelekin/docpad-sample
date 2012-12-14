@@ -3,8 +3,8 @@ var port = process.env.PORT || 5000;
 var docpadInstanceConfiguration = {
     templateData: {
         site: {
-            title: "Сайт и блог melekin",
-            url: "http://melekin.tk"
+            title: "Сайт и блог программиста",
+            url: "http://blog.programmer-site.tk"
         }
       },
       getTitle: function() {
